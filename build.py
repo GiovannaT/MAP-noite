@@ -1,3 +1,5 @@
+# Padrão Builder e o exemplo foi de um Robo
+# Venismendes, João Pedro Gomes, Carlos Eduardo, Arthur Lucena
 class RoboBuilder:
     def __init__(self):
         self.robo = Robo()
